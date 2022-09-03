@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "name": "Ice Cream",
+      "price": 0,
+      "type": "Vanilla",
+      "brand": "Fan Yogo",
+      "id": 2
+    },
+    {
+      "name": "Shawarma",
+      "price": "7.99",
+      "type": "pepperoni ",
+      "brand": "Chicken Blessed",
+      "id": 4
+    }
+  ]
+}
