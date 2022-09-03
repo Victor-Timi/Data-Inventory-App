@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Data-Inventory-App/static/css/main.4de0fa12.css",
+    "main.js": "/Data-Inventory-App/static/js/main.0ede16ea.js",
+    "index.html": "/Data-Inventory-App/index.html",
+    "main.4de0fa12.css.map": "/Data-Inventory-App/static/css/main.4de0fa12.css.map",
+    "main.0ede16ea.js.map": "/Data-Inventory-App/static/js/main.0ede16ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.0ede16ea.js"
+  ]
+}
